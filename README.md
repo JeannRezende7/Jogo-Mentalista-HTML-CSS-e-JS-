@@ -1,4 +1,6 @@
 # Jogo-Mentalista-HTML-CSS-e-JS-
+Jogo simples usando em geral If e Else onde geramos o sistema gera um número aleátorio e temos que tentar descobrir para desvendarmos as verdades do mundo.<br />
+Projeto piloto : https://codepen.io/imersao-dev/pen/vYgBwoj?editors=1010
 # Pequena Conversão 
 - No imput eu coloco o .value para ja receber o valor <br />
 - O ParseInt eu converto a string para inteiro, Ex: <br />
